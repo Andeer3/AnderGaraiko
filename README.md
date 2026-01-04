@@ -1,2 +1,2 @@
-# AnderGaraiko
-Proiekto
+# AnderGaraikoetxea
+Proiektua
